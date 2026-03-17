@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Recipe | dear prudence</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<header class="site-header">
+  <h1 class="logo">
+    <a href="index.html">dear prudence</a>
+</h1>
+
+<main>
+
+  <section class="ingredients">
+ <h2>the story</h2>
+    <h4>the sun is up, the sky is blue it's beautiful and so are you</h3>
+    
+      <p>a drink based off the first song i fell in love with.</h4>
+    </ul>
+  </section>
+
+   <img class="hero"></img>
+     <img src="top.png" alt="top" style="width:5cm; height:5cm;"
+    </img> 
+
+  <section class="steps">
+    <h2></h2>
+
+    <div class="step">
+      <h4></h3>
+      <p>the taste of cinnamon, rum, and chai belong together.</p>
+    </div>
+
+     <audio autoplay loop hidden>
+  <source src="Dear Prudence-The Beatles.mp4" type="audio/mpeg">
+</audio>
+
+  
+    </div>
+  </section>
+
+</main>
+
+
+
+<footer>
+    <h> enjoy & drink responsibly </h>
+</footer>
+
+</body>
+</html>
